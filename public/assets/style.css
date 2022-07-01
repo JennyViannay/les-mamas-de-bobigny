@@ -1,0 +1,13 @@
+main {
+    min-height: 100vh;
+}
+
+#about img {
+    height: 30rem;
+}
+
+.bg-image {
+    background-image: url('https://img.freepik.com/photos-gratuite/resume-fumee-orange-fond-blanc-couleur-eau-encre-jaune_55716-2408.jpg?w=2000');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
